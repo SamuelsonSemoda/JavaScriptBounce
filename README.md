@@ -9,3 +9,7 @@ Animace v JavaScriptu jsou ideální pro složitější interakce, které vyžad
 # Kdy je lepší použít CSS
 
 CSS animace jsou ideální pro jednoduché přechody nebo efekty, jako je změna barvy, průhlednosti či pohybu. Výhodou je, že CSS využívá GPU, což zajišťuje plynulost a výkon. Hodí se pro animace, které nevyžadují složitou logiku nebo reakce na uživatelské akce, například hover efekty nebo přechody mezi stránkami. Díky své jednoduchosti a deklarativnímu přístupu je CSS skvělou volbou pro základní animace, které jsou rychlé na implementaci a údržbu.
+
+
+https://animejs.com/
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animations/Using_CSS_animations
