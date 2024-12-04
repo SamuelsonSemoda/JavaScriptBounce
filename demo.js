@@ -32,7 +32,7 @@ document.addEventListener("DOMContentLoaded", loadDiv3)*/
 const animatedText = (element) => {
     let style = window.getComputedStyle(element, null).getPropertyValue("font-size");
     let zmenaVelikost = parseFloat(style);
-    let boolHodnota = true; //dal jsem si zde boolean proměnnou, která bude říkat jestli slovo roste nebo ne
+    let boolHodnota = true; // dal jsem si zde boolean proměnnou, která bude říkat jestli slovo roste nebo ne
 
     setInterval(() => {
         const col = () => {
